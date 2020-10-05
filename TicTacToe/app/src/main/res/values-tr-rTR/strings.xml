@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X-O-X Oyunu</string>
+    <string name="player1_wins_toast">Oyuncu 1 Kazandı.</string>
+    <string name="player2_wins_toast">Oyuncu 2 Kazandı.</string>
+    <string name="draw_toast">BERABERE</string>
+    <string name="desc">Sıfırla</string>
+    <string name="player_text">Oyuncu 1:</string>
+    <string name="player2_text">Oyuncu 2:</string>
+</resources>
