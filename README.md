@@ -1,0 +1,6 @@
+# androidgames
+Simple android games (Basit Android oyunları)
+
+The apps are available in both English and Turkish languages (Uygulamalar İngilizce ve Türkçe dillerini destekler).
+TicTacToe is playable by two players (X-O-X oyunu iki gerçek oyuncu gerektirir).
+DiceRoller is a single dice game with 2 seconds of delay. (Zar Salla'da 2 saniye gecikme eklenmiştir)
