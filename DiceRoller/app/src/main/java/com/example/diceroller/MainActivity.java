@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(final View v) {
                 diceSound.play(diceSound_id, 1, 1, 0, 0, 1);
+                imageViewDice.setEnabled(false);
 
                 new CountDownTimer(2000, 1000) {
                     @Override
@@ -46,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onFinish() {
                         rollDice();
+                        imageViewDice.setEnabled(true);
                     }
                 }.start();
 
