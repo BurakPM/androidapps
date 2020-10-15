@@ -1,4 +1,4 @@
-# androidgames
+# androidapps
 Simple android apps (Basit Android uygulamaları)
 
 The apps are available in both English and Turkish languages (Uygulamalar İngilizce ve Türkçe dillerini destekler). <br />
