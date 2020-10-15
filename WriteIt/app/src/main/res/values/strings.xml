@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WriteIt</string>
+    <string name="add_entry">Add Note</string>
+    <string name="hint_entry">Write Your Note</string>
+    <string name="title_entry">Title</string>
+    <string name="button_save">Save</string>
+    <string name="empty_fail">Note not saved because it is empty.</string>
+    <string name="save_success">Note saved</string>
+    <string name="not_saved">Note not saved</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="update_fail">Update Failed</string>
+    <string name="update_success">Note Updated</string>
+    <string name="delete_success">Note Deleted Successfully</string>
+    <string name="delete_all_success">All Notes Deleted</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+</resources>

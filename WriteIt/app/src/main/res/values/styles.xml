@@ -1,0 +1,41 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_orange_dark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="snackbarStyle">@style/Widget.App.Snackbar</item>
+        <item name="snackbarTextViewStyle">@style/Widget.App.SnackbarTextView</item>
+
+
+    </style>
+
+
+    <style name="entry_title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:background">@android:color/holo_orange_light</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+    </style>
+
+    <style name="Widget.App.Snackbar" parent="Widget.MaterialComponents.Snackbar">
+        <item name="backgroundTint">@android:color/holo_orange_dark</item>
+        <item name="elevation">10dp</item>
+    </style>
+
+    <style name="Widget.App.SnackbarTextView" parent="Widget.MaterialComponents.Snackbar.TextView">
+        <item name="android:textAppearance">@style/snackbar_button_textappearance</item>
+        <item name="android:textColor">#000000</item>
+
+
+    </style>
+
+    <style name="snackbar_button_textappearance" parent="@style/TextAppearance.MaterialComponents.Button">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>

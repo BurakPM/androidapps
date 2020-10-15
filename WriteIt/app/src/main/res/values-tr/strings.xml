@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WriteIt</string>
+    <string name="add_entry">Yeni Kayıt</string>
+    <string name="hint_entry">İçeriği Giriniz</string>
+    <string name="title_entry">Başlık</string>
+    <string name="button_save">Kaydet</string>
+    <string name="empty_fail">Alanlar boş bırakılamaz</string>
+    <string name="save_success">Kayıt Başarılı</string>
+    <string name="not_saved">Kaydedilmedi</string>
+    <string name="edit_note">İçeriği Düzenle</string>
+    <string name="update_fail">Güncelleme Başarısız</string>
+    <string name="update_success">Güncelleme Başarılı</string>
+    <string name="delete_success">Not Silindi</string>
+    <string name="delete_all_success">Bütün Notlar Silindi</string>
+    <string name="delete_all_notes">Bütün Notları Sil</string>
+
+</resources>
