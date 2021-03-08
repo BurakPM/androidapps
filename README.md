@@ -1,5 +1,5 @@
 # androidapps
-Simple android apps (Basit Android uygulamaları)
+Simple android apps
 
 The apps are available in both English and Turkish languages (Uygulamalar İngilizce ve Türkçe dillerini destekler). <br />
 TicTacToe is playable by two players (X-O-X oyunu iki gerçek oyuncu gerektirir). <br />
