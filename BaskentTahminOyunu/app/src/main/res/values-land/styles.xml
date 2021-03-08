@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customtoast">
+        <item name="stTextColor">@color/white</item>
+        <item name="stColorBackground">@color/accent</item>
+        <item name="stTextSize">15sp</item>
+        <item name="stTextBold">true</item>
+        <item name="stGravity">top</item>
+        <item name="stLength">SHORT</item>
+        <item name="stSolidBackground">true</item>
+    </style>
+
+</resources>

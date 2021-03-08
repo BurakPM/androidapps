@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="baskentler_array">
+        <item>Ankara</item>
+        <item>Athens</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Rome</item>
+        <item>Berlin</item>
+        <item>Budapest</item>
+        <item>Moscow</item>
+        <item>Nicosia</item>
+        <item>Brasilia</item>
+        <item>Sarajevo</item>
+        <item>Beijing</item>
+        <item>Dublin</item>
+        <item>Helsinki</item>
+        <item>Prague</item>
+        <item>Sofia</item>
+        <item>Vienna</item>
+        <item>Wellington</item>
+        <item>Copenhagen</item>
+        <item>Ottawa</item>
+        <item>London</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Sydney</item>
+        <item>Havana</item>
+        <item>Nairobi</item>
+        <item>Jerusalem</item>
+        <item>Seoul</item>
+        <item>Madrid</item>
+        <item>Stockholm</item>
+        <item>Baghdad</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess The Capital</string>
+    <string name="giriş_normal">Start</string>
+    <string name="açıklama">Info</string>
+    <string name="harfli_şehir">X-Letter Capital</string>
+    <string name="tahmin">Enter Your Guess</string>
+    <string name="harf_al">Take a Letter</string>
+    <string name="tahmin_et">Take a Guess</string>
+    <string name="bilgi_boş_tahmin">The answer cannot be empty</string>
+    <string name="bilgi_skorunuz">Remaining Health: %1$d</string>
+    <string name="bilgi_harf_sayısı">%1$d-Letter Capital</string>
+    <string name="bilgi_tebrikler">Congratulations!</string>
+    <string name="bilgi_yanlış_tahmin">Wrong Guess</string>
+    <string name="açıklama_metni"> <b>Time</b>: 1 Minute per City\n\n
+        <b>Remaining Health</b>: HP points is spent on bonus letters and guessing\n\n
+        <b>Points</b>: are calculated based on the capital length</string>
+</resources>
