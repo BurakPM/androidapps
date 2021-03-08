@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-    Intent intent;
+   
 
 
     @Override
@@ -20,11 +20,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
    public void aktiviteGeçiş(View v) {
-        //switch is broken here (Android resource IDs suddenly not final)
-
         int viewId = v.getId();
         if(viewId == R.id.button_normal_oyun) {
-            intent = new Intent(this, NormalOyunActivity.class);
+           Intent intent = new Intent(this, NormalOyunActivity.class);
             startActivity(intent);
         }else if(viewId == R.id.button_açıklama) {
             showInfoDialog();
